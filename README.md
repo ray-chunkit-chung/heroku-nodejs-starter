@@ -1,3 +1,9 @@
+# Heroku node.js starter
+
+https://dashboard.heroku.com/apps/agile-garden-06467
+
+This is an example from below. This app is auto-deploying via github-heroku connector
+
 # node-js-getting-started
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
